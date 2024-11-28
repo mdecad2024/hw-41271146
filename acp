@@ -4,4 +4,4 @@
 # source acp "commit message"
 git add .
 git commit -m "$1"
-git pushS
+git push
